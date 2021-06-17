@@ -7,9 +7,11 @@
                                              /____/
 ```
 
-- 👋 Hi, I’m @AtomicMegaNerd
+- 🤖 Hi, I’m @AtomicMegaNerd
 - 👀 I’m interested in functional programming as well as other languages with interesting type systems.
 - 🌱 I’m currently learning Haskell.
+- 🐟 I love the fish shell because it is awesome.
+- 🥷 I am learning how to become a speedy code ninja in NeoVim.
 
 <!---
 AtomicMegaNerd/AtomicMegaNerd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
