@@ -10,7 +10,6 @@
 - 🤖 Greetings, I am @AtomicMegaNerd.
 - 👋 你好。我在学习中文。虽然学中文有点难，我还喜欢这样做。很高兴认识你！
 - 👀 I am keenly interested in programming languages that have interesting type systems or are novel in some way.
-- 🌱 I am currently learning Haskell.  I am closer to base camp than I am to the summit 🏔.  Onward!
 - 🐟 I love the fish shell because it is awesome.
 - 🥷 I am also learning how to become a speedy code ninja in NeoVim.
 
