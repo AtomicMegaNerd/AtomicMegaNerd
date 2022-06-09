@@ -26,4 +26,6 @@ I enjoy doing programming language exercises on Exercism.  Here is my profile:
 
 ## Training
 
+![OpenHack Badge](./img/openhack-app-modernization-with-nosql.png)
+
 [https://www.credly.com/badges/3d9d55be-2c43-4783-b6f8-22a1999d7774/public_url](https://www.credly.com/badges/3d9d55be-2c43-4783-b6f8-22a1999d7774/public_url)
