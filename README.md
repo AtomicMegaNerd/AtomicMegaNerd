@@ -9,7 +9,7 @@
 
 - 🤖 Greetings, I am @AtomicMegaNerd.
 - 👋 你好。我在学习中文。虽然学中文有点难，我还喜欢这样做。很高兴认识你！
-- 🐍 At work I have used a lot of Python and Java.  I am learning Go.  I have also coded in Scala, C++, JavaScript (and variants like TypeScript), PHP, and even Lua. While Rust and Haskell are langauges I have dabbled in I just don't have the time to deep dive into them.
+- 🐍 At work I have used a lot of Python and Java.  I am learning Go.  I have also coded in Scala, C++, JavaScript (and variants like TypeScript), PHP, and even Lua. Rust is a language I'd like to get into more.
 - 🐟 I love the fish shell because it is awesome.
 - 🥷 I am also learning how to become a speedy code ninja in neovim.  LSP and tmux make neovim awesome!  This is how I write code these days.
 - 💻 I spend most of my computing time on UNIX-based systems like macOS and Linux.
