@@ -9,12 +9,12 @@
 
 - 🤖 Greetings, I am @AtomicMegaNerd.
 - 👋 你好。我在学习中文。虽然学中文有点难，我还喜欢这样做。很高兴认识你！
-- 🐍 At work I have used a lot of Python and Java.  I am learning Go.  I have also coded in Scala, C++, JavaScript (and variants like TypeScript), PHP, and even Lua. Rust is a language I'd like to get into more.
+- 🐍 At work I have wrtten a ton of Python and Java.  I am learning Go.  I have also coded in Scala, C++, JavaScript (and variants like TypeScript), PHP, and even Lua. I have dabbled in Haskell and Rust.
 - 🐟 I love the fish shell because it is awesome.
-- 🥷 I am also learning how to become a speedy code ninja in neovim.  LSP and tmux make neovim awesome!  This is how I write code these days.
+- 🥷 I am also learning how to become a speedy code ninja in Neovim.  LSP and tmux make Neovim awesome!  This is how I write code these days.
 - 💻 I spend most of my computing time on UNIX-based systems like macOS and Linux.
-- 🐧 My favourite Linux distro is Pop!\_OS.  Window tiling is amazing.
-- 🛠 Other tools that I love include Alacritty on Linux, iTerm and Amethyst on the Mac, and the modern UNIX stuff like exa, bat, duf, dust, and htop.
+- 🐧 Lately I have been having a lot of fun with Nix ❄️. In fact, my Mac and my Linux box are both using Nix. This is a really fun rabbit hole!
+- 🛠 Other tools that I love include iTerm and Amethyst on the Mac, as well as the modern UNIX stuff like exa, bat, duf, dust, and htop.
 
 ## Exercism
 
