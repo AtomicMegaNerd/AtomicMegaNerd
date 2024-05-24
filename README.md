@@ -14,7 +14,7 @@
 - 🥷 I am also learning how to become a speedy code ninja in Neovim.  LSP and tmux make Neovim awesome!  This is how I write code these days.
 - 💻 I spend most of my computing time on UNIX-based systems like macOS and Linux.
 - 🐧 Lately I have been having a lot of fun with Nix ❄️. In fact, my Mac and my Linux box are both using Nix. This is a really fun rabbit hole!
-- 🛠 Other tools that I love include iTerm and Amethyst on the Mac, as well as the modern UNIX stuff like exa, bat, duf, dust, and htop.
+- 🛠 Other tools that I love include Alacritty and Amethyst on the Mac, as well as the modern UNIX stuff like exa, bat, duf, dust, and htop.
 
 ## Exercism
 
