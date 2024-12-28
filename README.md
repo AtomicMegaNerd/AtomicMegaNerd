@@ -7,6 +7,8 @@
                                              /____/
 ```
 
+![AtomicMegaNerd](https://github.com/AtomicMegaNerd/AtomicMegaNerd/blob/main/img/RCD-AtomicMegaNerd-Beard-400.png)
+
 - 🤖 Greetings, I am @AtomicMegaNerd.
 - 👋 你好。我在学习中文。虽然学中文有点难，我还喜欢这样做。很高兴认识你！
 - 🐍 At work I have wrtten a ton of Python and Java.  I am learning Go.  I have also coded in Scala, C++, JavaScript (and variants like TypeScript), PHP, and even Lua. I have dabbled in Haskell and Rust.
